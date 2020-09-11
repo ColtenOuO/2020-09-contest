@@ -31,7 +31,7 @@ https://docs.google.com/forms/d/e/1FAIpQLSfW-VNwLdNHAeq5Om92gzoLoodh5jmBlInO235g
 
 如果沒有帳號的請去 Codeforces平台 辦一個
 
-##本次命題範圍 :
+## 本次命題範圍 :
 基本輸入輸出 input & output
 
 條件判斷 if / else
